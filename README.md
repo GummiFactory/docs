@@ -1,4 +1,4 @@
-# GummiArm *Research Edition*
+# GummiArm *Research Edition (RE)*
 
 ![alt text](https://github.com/GummiFactory/docs/blob/master/images/general/ugg.jpg "GummiArmRE")
 
